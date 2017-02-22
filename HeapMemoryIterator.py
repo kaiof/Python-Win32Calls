@@ -1,4 +1,4 @@
-# "What's the memory limi on SoloLearn?" : https://www.sololearn.com/Discuss/181365/?ref=app
+# "What's the memory limit on SoloLearn?" : https://www.sololearn.com/Discuss/181365/?ref=app
 #   None of the easy imports could I find; I could ask a shell but didn't like that...
 #   So stdlib / Windows 32 API:
 import ctypes
